@@ -1,0 +1,4233 @@
+test_id,label
+0,Pasture
+1,River
+2,Herbaceous Vegetation
+3,Sea Lake
+4,Herbaceous Vegetation
+5,Annual Crop
+6,Sea Lake
+7,Sea Lake
+8,Herbaceous Vegetation
+9,Annual Crop
+10,Sea Lake
+11,Sea Lake
+12,Permanent Crop
+13,Industrial
+14,Pasture
+15,Herbaceous Vegetation
+16,Sea Lake
+17,River
+18,Annual Crop
+19,River
+20,Herbaceous Vegetation
+21,River
+22,Sea Lake
+23,Sea Lake
+24,River
+25,Industrial
+26,Annual Crop
+27,Herbaceous Vegetation
+28,Herbaceous Vegetation
+29,Industrial
+30,Annual Crop
+31,Permanent Crop
+32,Forest
+33,Permanent Crop
+34,Annual Crop
+35,Annual Crop
+36,Sea Lake
+37,Permanent Crop
+38,Sea Lake
+39,Sea Lake
+40,Forest
+41,Pasture
+42,Highway
+43,Sea Lake
+44,Permanent Crop
+45,Permanent Crop
+46,Permanent Crop
+47,Sea Lake
+48,Herbaceous Vegetation
+49,Pasture
+50,Annual Crop
+51,River
+52,Sea Lake
+53,Herbaceous Vegetation
+54,Industrial
+55,Permanent Crop
+56,Residential
+57,Pasture
+58,Sea Lake
+59,Highway
+60,Herbaceous Vegetation
+61,River
+62,Residential
+63,River
+64,Sea Lake
+65,Forest
+66,Sea Lake
+67,Sea Lake
+68,River
+69,Forest
+70,Sea Lake
+71,Pasture
+72,Highway
+73,Sea Lake
+74,Annual Crop
+75,Pasture
+76,Annual Crop
+77,Herbaceous Vegetation
+78,Annual Crop
+79,Sea Lake
+80,Permanent Crop
+81,Herbaceous Vegetation
+82,Highway
+83,Residential
+84,Sea Lake
+85,Sea Lake
+86,Forest
+87,Annual Crop
+88,Forest
+89,Sea Lake
+90,Herbaceous Vegetation
+91,Permanent Crop
+92,Sea Lake
+93,Forest
+94,Annual Crop
+95,Sea Lake
+96,River
+97,Herbaceous Vegetation
+98,Residential
+99,Herbaceous Vegetation
+100,Forest
+101,Residential
+102,Forest
+103,Residential
+104,Pasture
+105,Pasture
+106,Herbaceous Vegetation
+107,Herbaceous Vegetation
+108,Sea Lake
+109,Industrial
+110,Industrial
+111,Annual Crop
+112,Forest
+113,River
+114,Herbaceous Vegetation
+115,Sea Lake
+116,Forest
+117,Permanent Crop
+118,Sea Lake
+119,Industrial
+120,Sea Lake
+121,Sea Lake
+122,Annual Crop
+123,Sea Lake
+124,Pasture
+125,Forest
+126,Forest
+127,Annual Crop
+128,Permanent Crop
+129,Highway
+130,Highway
+131,Herbaceous Vegetation
+132,Sea Lake
+133,Herbaceous Vegetation
+134,Highway
+135,Annual Crop
+136,Highway
+137,Forest
+138,Herbaceous Vegetation
+139,Forest
+140,Annual Crop
+141,Forest
+142,River
+143,River
+144,Highway
+145,River
+146,Sea Lake
+147,Herbaceous Vegetation
+148,Annual Crop
+149,Herbaceous Vegetation
+150,Herbaceous Vegetation
+151,Permanent Crop
+152,Pasture
+153,Pasture
+154,Pasture
+155,Sea Lake
+156,Sea Lake
+157,Industrial
+158,Permanent Crop
+159,Herbaceous Vegetation
+160,Permanent Crop
+161,Highway
+162,Residential
+163,Pasture
+164,Industrial
+165,Residential
+166,River
+167,Permanent Crop
+168,Highway
+169,Highway
+170,River
+171,Sea Lake
+172,Pasture
+173,Sea Lake
+174,Permanent Crop
+175,Sea Lake
+176,Residential
+177,Forest
+178,River
+179,Forest
+180,Annual Crop
+181,Sea Lake
+182,Forest
+183,Highway
+184,Annual Crop
+185,River
+186,Forest
+187,Forest
+188,Industrial
+189,Forest
+190,Pasture
+191,Highway
+192,Residential
+193,Residential
+194,Forest
+195,Herbaceous Vegetation
+196,Permanent Crop
+197,Residential
+198,Annual Crop
+199,Pasture
+200,River
+201,Sea Lake
+202,River
+203,Highway
+204,River
+205,Sea Lake
+206,River
+207,Annual Crop
+208,Highway
+209,Forest
+210,Residential
+211,Forest
+212,Residential
+213,Herbaceous Vegetation
+214,Pasture
+215,Pasture
+216,Sea Lake
+217,Annual Crop
+218,Forest
+219,Sea Lake
+220,Forest
+221,Residential
+222,Industrial
+223,Herbaceous Vegetation
+224,Forest
+225,Sea Lake
+226,Sea Lake
+227,Highway
+228,Herbaceous Vegetation
+229,Residential
+230,Sea Lake
+231,Permanent Crop
+232,Forest
+233,River
+234,River
+235,Highway
+236,Herbaceous Vegetation
+237,Sea Lake
+238,Pasture
+239,Residential
+240,Residential
+241,Herbaceous Vegetation
+242,River
+243,Highway
+244,Highway
+245,Industrial
+246,Highway
+247,Annual Crop
+248,Sea Lake
+249,Permanent Crop
+250,Forest
+251,Sea Lake
+252,Industrial
+253,Forest
+254,Pasture
+255,Pasture
+256,Annual Crop
+257,Herbaceous Vegetation
+258,River
+259,Pasture
+260,Annual Crop
+261,River
+262,Highway
+263,Sea Lake
+264,Herbaceous Vegetation
+265,Annual Crop
+266,Sea Lake
+267,River
+268,Sea Lake
+269,Pasture
+270,Sea Lake
+271,Sea Lake
+272,Highway
+273,Residential
+274,Sea Lake
+275,River
+276,Sea Lake
+277,Pasture
+278,Forest
+279,Sea Lake
+280,Sea Lake
+281,Sea Lake
+282,River
+283,Residential
+284,River
+285,Herbaceous Vegetation
+286,River
+287,Herbaceous Vegetation
+288,Annual Crop
+289,Industrial
+290,Forest
+291,Pasture
+292,Forest
+293,Highway
+294,Herbaceous Vegetation
+295,Sea Lake
+296,Annual Crop
+297,Sea Lake
+298,Sea Lake
+299,Residential
+300,Forest
+301,Highway
+302,Highway
+303,Annual Crop
+304,Sea Lake
+305,Pasture
+306,Sea Lake
+307,Permanent Crop
+308,Permanent Crop
+309,Sea Lake
+310,Sea Lake
+311,Annual Crop
+312,Herbaceous Vegetation
+313,Sea Lake
+314,Annual Crop
+315,River
+316,Industrial
+317,Permanent Crop
+318,Sea Lake
+319,Permanent Crop
+320,Forest
+321,Highway
+322,Sea Lake
+323,Forest
+324,Highway
+325,Sea Lake
+326,Permanent Crop
+327,Forest
+328,Herbaceous Vegetation
+329,Annual Crop
+330,River
+331,Herbaceous Vegetation
+332,Permanent Crop
+333,Annual Crop
+334,Herbaceous Vegetation
+335,Forest
+336,Sea Lake
+337,Highway
+338,Permanent Crop
+339,River
+340,Annual Crop
+341,Pasture
+342,Sea Lake
+343,Sea Lake
+344,Herbaceous Vegetation
+345,Forest
+346,River
+347,Herbaceous Vegetation
+348,Residential
+349,Sea Lake
+350,Annual Crop
+351,Herbaceous Vegetation
+352,Annual Crop
+353,Sea Lake
+354,Pasture
+355,Industrial
+356,Forest
+357,Forest
+358,Sea Lake
+359,Herbaceous Vegetation
+360,Sea Lake
+361,Annual Crop
+362,Pasture
+363,Industrial
+364,Forest
+365,Pasture
+366,Highway
+367,Residential
+368,Permanent Crop
+369,Sea Lake
+370,Annual Crop
+371,Forest
+372,Annual Crop
+373,Residential
+374,Sea Lake
+375,Permanent Crop
+376,Sea Lake
+377,Herbaceous Vegetation
+378,Herbaceous Vegetation
+379,Annual Crop
+380,Sea Lake
+381,Pasture
+382,Sea Lake
+383,Highway
+384,Industrial
+385,Industrial
+386,Herbaceous Vegetation
+387,Permanent Crop
+388,Industrial
+389,Permanent Crop
+390,Permanent Crop
+391,Sea Lake
+392,Pasture
+393,Highway
+394,Highway
+395,Highway
+396,Sea Lake
+397,Pasture
+398,Sea Lake
+399,Permanent Crop
+400,Annual Crop
+401,Forest
+402,Herbaceous Vegetation
+403,Annual Crop
+404,Sea Lake
+405,River
+406,Annual Crop
+407,Highway
+408,Permanent Crop
+409,Annual Crop
+410,Industrial
+411,Residential
+412,Residential
+413,Herbaceous Vegetation
+414,Forest
+415,Herbaceous Vegetation
+416,Industrial
+417,Industrial
+418,Forest
+419,Permanent Crop
+420,River
+421,Herbaceous Vegetation
+422,Industrial
+423,Permanent Crop
+424,Herbaceous Vegetation
+425,Forest
+426,Annual Crop
+427,Annual Crop
+428,Permanent Crop
+429,Industrial
+430,Herbaceous Vegetation
+431,Herbaceous Vegetation
+432,Annual Crop
+433,Highway
+434,River
+435,Sea Lake
+436,Herbaceous Vegetation
+437,River
+438,Forest
+439,Herbaceous Vegetation
+440,Herbaceous Vegetation
+441,Sea Lake
+442,Sea Lake
+443,Sea Lake
+444,Annual Crop
+445,Forest
+446,Industrial
+447,Sea Lake
+448,Herbaceous Vegetation
+449,Permanent Crop
+450,River
+451,Sea Lake
+452,Sea Lake
+453,Herbaceous Vegetation
+454,Residential
+455,Sea Lake
+456,Sea Lake
+457,Industrial
+458,Permanent Crop
+459,Residential
+460,Permanent Crop
+461,River
+462,Residential
+463,Sea Lake
+464,Annual Crop
+465,Sea Lake
+466,Sea Lake
+467,Herbaceous Vegetation
+468,River
+469,Industrial
+470,Herbaceous Vegetation
+471,Forest
+472,Forest
+473,Sea Lake
+474,River
+475,Residential
+476,Herbaceous Vegetation
+477,Pasture
+478,Sea Lake
+479,Permanent Crop
+480,Highway
+481,Sea Lake
+482,River
+483,Sea Lake
+484,Highway
+485,Industrial
+486,Pasture
+487,Industrial
+488,Sea Lake
+489,Herbaceous Vegetation
+490,Herbaceous Vegetation
+491,River
+492,River
+493,Herbaceous Vegetation
+494,Highway
+495,Forest
+496,Sea Lake
+497,Pasture
+498,River
+499,Forest
+500,Permanent Crop
+501,River
+502,Forest
+503,Sea Lake
+504,River
+505,Industrial
+506,Sea Lake
+507,Residential
+508,Highway
+509,Pasture
+510,Industrial
+511,Forest
+512,River
+513,River
+514,Sea Lake
+515,Herbaceous Vegetation
+516,Forest
+517,Permanent Crop
+518,Forest
+519,Annual Crop
+520,Residential
+521,Pasture
+522,River
+523,Pasture
+524,River
+525,Herbaceous Vegetation
+526,Permanent Crop
+527,River
+528,Sea Lake
+529,Herbaceous Vegetation
+530,Industrial
+531,Sea Lake
+532,Industrial
+533,Herbaceous Vegetation
+534,Pasture
+535,Industrial
+536,Highway
+537,Sea Lake
+538,Residential
+539,Permanent Crop
+540,Industrial
+541,Herbaceous Vegetation
+542,Residential
+543,Highway
+544,Annual Crop
+545,Sea Lake
+546,Sea Lake
+547,Herbaceous Vegetation
+548,Highway
+549,Pasture
+550,Permanent Crop
+551,Pasture
+552,Annual Crop
+553,Permanent Crop
+554,Forest
+555,Highway
+556,Sea Lake
+557,Sea Lake
+558,Annual Crop
+559,Highway
+560,Sea Lake
+561,Industrial
+562,Pasture
+563,Residential
+564,Industrial
+565,Highway
+566,Permanent Crop
+567,Annual Crop
+568,Permanent Crop
+569,Forest
+570,River
+571,Sea Lake
+572,Pasture
+573,Industrial
+574,Herbaceous Vegetation
+575,Industrial
+576,Industrial
+577,Pasture
+578,Forest
+579,Permanent Crop
+580,Residential
+581,Herbaceous Vegetation
+582,Residential
+583,Forest
+584,Forest
+585,Highway
+586,Permanent Crop
+587,Pasture
+588,Herbaceous Vegetation
+589,Industrial
+590,River
+591,Industrial
+592,Annual Crop
+593,Residential
+594,Sea Lake
+595,Permanent Crop
+596,Sea Lake
+597,Sea Lake
+598,Sea Lake
+599,Annual Crop
+600,Sea Lake
+601,Annual Crop
+602,Industrial
+603,Annual Crop
+604,Annual Crop
+605,Industrial
+606,Annual Crop
+607,Highway
+608,Sea Lake
+609,Forest
+610,Herbaceous Vegetation
+611,Pasture
+612,Industrial
+613,Residential
+614,Residential
+615,Forest
+616,Permanent Crop
+617,River
+618,Residential
+619,River
+620,Sea Lake
+621,Herbaceous Vegetation
+622,Annual Crop
+623,Permanent Crop
+624,Sea Lake
+625,Sea Lake
+626,Annual Crop
+627,Pasture
+628,Industrial
+629,Sea Lake
+630,Sea Lake
+631,River
+632,Highway
+633,Annual Crop
+634,Forest
+635,Pasture
+636,Forest
+637,Herbaceous Vegetation
+638,River
+639,Industrial
+640,Pasture
+641,Annual Crop
+642,Highway
+643,Highway
+644,Annual Crop
+645,Residential
+646,Highway
+647,River
+648,Annual Crop
+649,River
+650,Sea Lake
+651,Highway
+652,Annual Crop
+653,River
+654,Annual Crop
+655,Permanent Crop
+656,Highway
+657,Forest
+658,Sea Lake
+659,River
+660,Forest
+661,Forest
+662,Herbaceous Vegetation
+663,Annual Crop
+664,Herbaceous Vegetation
+665,Permanent Crop
+666,Pasture
+667,Sea Lake
+668,Permanent Crop
+669,Permanent Crop
+670,Residential
+671,Permanent Crop
+672,Pasture
+673,Herbaceous Vegetation
+674,River
+675,Sea Lake
+676,Herbaceous Vegetation
+677,Industrial
+678,River
+679,Herbaceous Vegetation
+680,Highway
+681,Forest
+682,Forest
+683,Forest
+684,Residential
+685,Sea Lake
+686,Annual Crop
+687,Residential
+688,Pasture
+689,Herbaceous Vegetation
+690,Forest
+691,Highway
+692,Sea Lake
+693,River
+694,Industrial
+695,Forest
+696,Residential
+697,Highway
+698,Highway
+699,Permanent Crop
+700,River
+701,Pasture
+702,Herbaceous Vegetation
+703,River
+704,Highway
+705,Highway
+706,Herbaceous Vegetation
+707,River
+708,River
+709,Sea Lake
+710,Pasture
+711,Highway
+712,Industrial
+713,Herbaceous Vegetation
+714,Herbaceous Vegetation
+715,Sea Lake
+716,Pasture
+717,River
+718,Herbaceous Vegetation
+719,Pasture
+720,Annual Crop
+721,Industrial
+722,Pasture
+723,Permanent Crop
+724,Pasture
+725,River
+726,Forest
+727,Permanent Crop
+728,Forest
+729,Forest
+730,Herbaceous Vegetation
+731,Permanent Crop
+732,River
+733,Pasture
+734,Pasture
+735,Residential
+736,Highway
+737,Forest
+738,Highway
+739,Annual Crop
+740,Pasture
+741,Industrial
+742,Sea Lake
+743,Annual Crop
+744,Permanent Crop
+745,Forest
+746,Sea Lake
+747,Herbaceous Vegetation
+748,Industrial
+749,Industrial
+750,Sea Lake
+751,Residential
+752,Highway
+753,Residential
+754,Highway
+755,Sea Lake
+756,Sea Lake
+757,Forest
+758,Forest
+759,Permanent Crop
+760,Highway
+761,Residential
+762,Pasture
+763,Annual Crop
+764,Annual Crop
+765,Forest
+766,Herbaceous Vegetation
+767,Sea Lake
+768,Pasture
+769,Permanent Crop
+770,Sea Lake
+771,Pasture
+772,Permanent Crop
+773,Forest
+774,Sea Lake
+775,Industrial
+776,Annual Crop
+777,Sea Lake
+778,Herbaceous Vegetation
+779,Industrial
+780,Permanent Crop
+781,Forest
+782,Sea Lake
+783,Herbaceous Vegetation
+784,Annual Crop
+785,Sea Lake
+786,Highway
+787,Annual Crop
+788,Permanent Crop
+789,River
+790,Residential
+791,Sea Lake
+792,Permanent Crop
+793,Permanent Crop
+794,Residential
+795,Permanent Crop
+796,Herbaceous Vegetation
+797,Sea Lake
+798,Sea Lake
+799,Herbaceous Vegetation
+800,Forest
+801,Pasture
+802,Pasture
+803,Permanent Crop
+804,Permanent Crop
+805,Annual Crop
+806,Forest
+807,Forest
+808,Residential
+809,River
+810,Industrial
+811,Herbaceous Vegetation
+812,Annual Crop
+813,Industrial
+814,Forest
+815,Sea Lake
+816,Sea Lake
+817,Highway
+818,Highway
+819,Residential
+820,Highway
+821,Industrial
+822,Sea Lake
+823,Permanent Crop
+824,Sea Lake
+825,River
+826,River
+827,Herbaceous Vegetation
+828,Sea Lake
+829,River
+830,Permanent Crop
+831,Industrial
+832,Highway
+833,River
+834,Pasture
+835,Sea Lake
+836,Permanent Crop
+837,Residential
+838,Herbaceous Vegetation
+839,Herbaceous Vegetation
+840,Sea Lake
+841,Pasture
+842,Sea Lake
+843,Permanent Crop
+844,Forest
+845,Sea Lake
+846,Sea Lake
+847,Herbaceous Vegetation
+848,Herbaceous Vegetation
+849,Residential
+850,Permanent Crop
+851,Industrial
+852,Pasture
+853,Sea Lake
+854,Highway
+855,Forest
+856,Herbaceous Vegetation
+857,Forest
+858,Highway
+859,Forest
+860,Sea Lake
+861,Herbaceous Vegetation
+862,Highway
+863,Permanent Crop
+864,Pasture
+865,Sea Lake
+866,Annual Crop
+867,Sea Lake
+868,Forest
+869,Sea Lake
+870,River
+871,Residential
+872,Industrial
+873,Industrial
+874,River
+875,Pasture
+876,Industrial
+877,Annual Crop
+878,Forest
+879,Pasture
+880,Highway
+881,River
+882,Industrial
+883,Herbaceous Vegetation
+884,Sea Lake
+885,River
+886,Pasture
+887,Sea Lake
+888,River
+889,Sea Lake
+890,Residential
+891,River
+892,Herbaceous Vegetation
+893,Sea Lake
+894,Permanent Crop
+895,River
+896,Residential
+897,Highway
+898,Residential
+899,Sea Lake
+900,Industrial
+901,Forest
+902,Pasture
+903,River
+904,Forest
+905,Sea Lake
+906,Pasture
+907,Sea Lake
+908,Herbaceous Vegetation
+909,River
+910,Sea Lake
+911,Industrial
+912,Pasture
+913,Industrial
+914,Pasture
+915,Annual Crop
+916,Forest
+917,Sea Lake
+918,River
+919,Forest
+920,Sea Lake
+921,Sea Lake
+922,Highway
+923,Forest
+924,Permanent Crop
+925,Permanent Crop
+926,River
+927,Forest
+928,Annual Crop
+929,Annual Crop
+930,Highway
+931,Sea Lake
+932,Annual Crop
+933,Permanent Crop
+934,Pasture
+935,Sea Lake
+936,Annual Crop
+937,Pasture
+938,Sea Lake
+939,Sea Lake
+940,Forest
+941,Herbaceous Vegetation
+942,Herbaceous Vegetation
+943,Annual Crop
+944,Herbaceous Vegetation
+945,Residential
+946,Forest
+947,Pasture
+948,Sea Lake
+949,Forest
+950,Highway
+951,Residential
+952,River
+953,Annual Crop
+954,River
+955,River
+956,Sea Lake
+957,Herbaceous Vegetation
+958,Pasture
+959,Herbaceous Vegetation
+960,Sea Lake
+961,Highway
+962,Industrial
+963,Annual Crop
+964,Forest
+965,Annual Crop
+966,Sea Lake
+967,Annual Crop
+968,Herbaceous Vegetation
+969,Forest
+970,Residential
+971,Sea Lake
+972,Industrial
+973,Permanent Crop
+974,Highway
+975,Forest
+976,Sea Lake
+977,Herbaceous Vegetation
+978,Forest
+979,River
+980,Highway
+981,Herbaceous Vegetation
+982,Pasture
+983,Herbaceous Vegetation
+984,Highway
+985,Herbaceous Vegetation
+986,Herbaceous Vegetation
+987,Highway
+988,Permanent Crop
+989,Permanent Crop
+990,Herbaceous Vegetation
+991,Sea Lake
+992,Sea Lake
+993,Permanent Crop
+994,Sea Lake
+995,Residential
+996,Sea Lake
+997,Highway
+998,Annual Crop
+999,Sea Lake
+1000,Permanent Crop
+1001,Residential
+1002,Annual Crop
+1003,Highway
+1004,Sea Lake
+1005,Sea Lake
+1006,Forest
+1007,Forest
+1008,Permanent Crop
+1009,Pasture
+1010,Pasture
+1011,Industrial
+1012,Industrial
+1013,Sea Lake
+1014,Industrial
+1015,Sea Lake
+1016,Herbaceous Vegetation
+1017,Forest
+1018,Forest
+1019,Permanent Crop
+1020,Sea Lake
+1021,Annual Crop
+1022,Highway
+1023,Residential
+1024,River
+1025,Pasture
+1026,River
+1027,Highway
+1028,Sea Lake
+1029,Highway
+1030,Residential
+1031,Annual Crop
+1032,Forest
+1033,Sea Lake
+1034,Sea Lake
+1035,Forest
+1036,Forest
+1037,Pasture
+1038,Herbaceous Vegetation
+1039,Permanent Crop
+1040,Herbaceous Vegetation
+1041,Sea Lake
+1042,Industrial
+1043,River
+1044,River
+1045,Residential
+1046,Sea Lake
+1047,Annual Crop
+1048,River
+1049,Residential
+1050,Forest
+1051,Annual Crop
+1052,Permanent Crop
+1053,Herbaceous Vegetation
+1054,Sea Lake
+1055,Permanent Crop
+1056,River
+1057,Sea Lake
+1058,Sea Lake
+1059,Pasture
+1060,Pasture
+1061,Forest
+1062,Sea Lake
+1063,Herbaceous Vegetation
+1064,Highway
+1065,Herbaceous Vegetation
+1066,Forest
+1067,River
+1068,Herbaceous Vegetation
+1069,Sea Lake
+1070,Herbaceous Vegetation
+1071,Herbaceous Vegetation
+1072,Industrial
+1073,River
+1074,Forest
+1075,River
+1076,Forest
+1077,Sea Lake
+1078,Permanent Crop
+1079,Highway
+1080,Forest
+1081,Highway
+1082,Highway
+1083,Forest
+1084,Highway
+1085,Highway
+1086,Annual Crop
+1087,Pasture
+1088,Herbaceous Vegetation
+1089,Highway
+1090,Permanent Crop
+1091,Highway
+1092,Herbaceous Vegetation
+1093,Annual Crop
+1094,Sea Lake
+1095,Herbaceous Vegetation
+1096,Sea Lake
+1097,Sea Lake
+1098,Residential
+1099,Forest
+1100,Sea Lake
+1101,River
+1102,River
+1103,Permanent Crop
+1104,Highway
+1105,Sea Lake
+1106,Annual Crop
+1107,Permanent Crop
+1108,Forest
+1109,Pasture
+1110,Pasture
+1111,Annual Crop
+1112,Highway
+1113,River
+1114,Herbaceous Vegetation
+1115,Forest
+1116,Annual Crop
+1117,River
+1118,Pasture
+1119,Highway
+1120,Forest
+1121,Herbaceous Vegetation
+1122,Annual Crop
+1123,Pasture
+1124,Industrial
+1125,Industrial
+1126,Industrial
+1127,Herbaceous Vegetation
+1128,Industrial
+1129,Residential
+1130,Pasture
+1131,Sea Lake
+1132,Herbaceous Vegetation
+1133,Forest
+1134,Highway
+1135,Residential
+1136,Residential
+1137,River
+1138,Annual Crop
+1139,Herbaceous Vegetation
+1140,Permanent Crop
+1141,Sea Lake
+1142,Permanent Crop
+1143,Sea Lake
+1144,Forest
+1145,Pasture
+1146,Industrial
+1147,Herbaceous Vegetation
+1148,Permanent Crop
+1149,Pasture
+1150,Residential
+1151,Highway
+1152,Permanent Crop
+1153,Sea Lake
+1154,Forest
+1155,Pasture
+1156,Forest
+1157,Annual Crop
+1158,Forest
+1159,Herbaceous Vegetation
+1160,Annual Crop
+1161,Pasture
+1162,River
+1163,Permanent Crop
+1164,River
+1165,Highway
+1166,Herbaceous Vegetation
+1167,Industrial
+1168,Permanent Crop
+1169,Industrial
+1170,Sea Lake
+1171,Highway
+1172,Forest
+1173,Herbaceous Vegetation
+1174,Annual Crop
+1175,Permanent Crop
+1176,Annual Crop
+1177,Forest
+1178,Highway
+1179,Industrial
+1180,Permanent Crop
+1181,River
+1182,Highway
+1183,Forest
+1184,Industrial
+1185,Industrial
+1186,Residential
+1187,Forest
+1188,Forest
+1189,Forest
+1190,Pasture
+1191,Forest
+1192,Highway
+1193,Annual Crop
+1194,Sea Lake
+1195,Industrial
+1196,Sea Lake
+1197,Forest
+1198,Forest
+1199,Herbaceous Vegetation
+1200,Sea Lake
+1201,Annual Crop
+1202,Sea Lake
+1203,Herbaceous Vegetation
+1204,Sea Lake
+1205,Forest
+1206,River
+1207,Highway
+1208,Herbaceous Vegetation
+1209,River
+1210,Industrial
+1211,Pasture
+1212,Residential
+1213,Sea Lake
+1214,River
+1215,Forest
+1216,Forest
+1217,Sea Lake
+1218,Industrial
+1219,Herbaceous Vegetation
+1220,Industrial
+1221,Sea Lake
+1222,Residential
+1223,Sea Lake
+1224,River
+1225,Forest
+1226,Pasture
+1227,Herbaceous Vegetation
+1228,Highway
+1229,Permanent Crop
+1230,River
+1231,Residential
+1232,Forest
+1233,Forest
+1234,Pasture
+1235,Forest
+1236,Permanent Crop
+1237,Highway
+1238,Forest
+1239,Highway
+1240,Pasture
+1241,Sea Lake
+1242,River
+1243,River
+1244,Herbaceous Vegetation
+1245,Forest
+1246,Sea Lake
+1247,Pasture
+1248,Annual Crop
+1249,Herbaceous Vegetation
+1250,Highway
+1251,Industrial
+1252,Pasture
+1253,Sea Lake
+1254,Annual Crop
+1255,Herbaceous Vegetation
+1256,Sea Lake
+1257,River
+1258,River
+1259,Forest
+1260,Forest
+1261,Permanent Crop
+1262,Forest
+1263,Industrial
+1264,Permanent Crop
+1265,River
+1266,Pasture
+1267,Pasture
+1268,Herbaceous Vegetation
+1269,Industrial
+1270,Forest
+1271,Herbaceous Vegetation
+1272,River
+1273,Highway
+1274,River
+1275,Pasture
+1276,Annual Crop
+1277,Pasture
+1278,Pasture
+1279,Sea Lake
+1280,Pasture
+1281,Sea Lake
+1282,Forest
+1283,Highway
+1284,Highway
+1285,Sea Lake
+1286,Industrial
+1287,Annual Crop
+1288,River
+1289,Residential
+1290,Forest
+1291,Residential
+1292,Forest
+1293,Sea Lake
+1294,Sea Lake
+1295,Residential
+1296,Permanent Crop
+1297,Pasture
+1298,Pasture
+1299,Forest
+1300,Residential
+1301,Sea Lake
+1302,Permanent Crop
+1303,Residential
+1304,Sea Lake
+1305,Forest
+1306,Forest
+1307,River
+1308,River
+1309,Highway
+1310,Herbaceous Vegetation
+1311,Sea Lake
+1312,Herbaceous Vegetation
+1313,Annual Crop
+1314,Forest
+1315,Annual Crop
+1316,Pasture
+1317,Forest
+1318,Permanent Crop
+1319,Sea Lake
+1320,Highway
+1321,Sea Lake
+1322,Sea Lake
+1323,Sea Lake
+1324,Herbaceous Vegetation
+1325,Industrial
+1326,Industrial
+1327,Pasture
+1328,Residential
+1329,Pasture
+1330,Sea Lake
+1331,Sea Lake
+1332,Sea Lake
+1333,Sea Lake
+1334,Industrial
+1335,Residential
+1336,Pasture
+1337,Highway
+1338,Pasture
+1339,Pasture
+1340,River
+1341,Sea Lake
+1342,Sea Lake
+1343,Permanent Crop
+1344,Pasture
+1345,Forest
+1346,Residential
+1347,Pasture
+1348,Annual Crop
+1349,River
+1350,Pasture
+1351,Sea Lake
+1352,Annual Crop
+1353,Highway
+1354,Permanent Crop
+1355,Industrial
+1356,Forest
+1357,Permanent Crop
+1358,Highway
+1359,River
+1360,Permanent Crop
+1361,River
+1362,Pasture
+1363,Sea Lake
+1364,Highway
+1365,Sea Lake
+1366,Annual Crop
+1367,Pasture
+1368,Residential
+1369,Sea Lake
+1370,Highway
+1371,Industrial
+1372,Pasture
+1373,Residential
+1374,River
+1375,Annual Crop
+1376,Highway
+1377,Sea Lake
+1378,Annual Crop
+1379,Highway
+1380,Forest
+1381,Residential
+1382,Highway
+1383,Pasture
+1384,Residential
+1385,Annual Crop
+1386,Annual Crop
+1387,Sea Lake
+1388,Permanent Crop
+1389,Pasture
+1390,Herbaceous Vegetation
+1391,Forest
+1392,Sea Lake
+1393,Sea Lake
+1394,Permanent Crop
+1395,Annual Crop
+1396,Sea Lake
+1397,Highway
+1398,Industrial
+1399,Pasture
+1400,Industrial
+1401,Permanent Crop
+1402,Industrial
+1403,Industrial
+1404,Permanent Crop
+1405,Pasture
+1406,Forest
+1407,River
+1408,Sea Lake
+1409,Herbaceous Vegetation
+1410,Permanent Crop
+1411,Sea Lake
+1412,Highway
+1413,Pasture
+1414,River
+1415,Annual Crop
+1416,Forest
+1417,Herbaceous Vegetation
+1418,Forest
+1419,Annual Crop
+1420,Residential
+1421,Herbaceous Vegetation
+1422,Annual Crop
+1423,Sea Lake
+1424,Annual Crop
+1425,Sea Lake
+1426,Herbaceous Vegetation
+1427,Industrial
+1428,Sea Lake
+1429,Sea Lake
+1430,River
+1431,Residential
+1432,Herbaceous Vegetation
+1433,Sea Lake
+1434,Permanent Crop
+1435,Pasture
+1436,Pasture
+1437,Pasture
+1438,Sea Lake
+1439,Highway
+1440,Pasture
+1441,Highway
+1442,Highway
+1443,Highway
+1444,Highway
+1445,Permanent Crop
+1446,Industrial
+1447,Herbaceous Vegetation
+1448,Permanent Crop
+1449,Forest
+1450,Residential
+1451,Residential
+1452,Industrial
+1453,Herbaceous Vegetation
+1454,Forest
+1455,Annual Crop
+1456,Industrial
+1457,Pasture
+1458,Forest
+1459,Sea Lake
+1460,Highway
+1461,Residential
+1462,Sea Lake
+1463,Highway
+1464,Herbaceous Vegetation
+1465,Forest
+1466,Industrial
+1467,Forest
+1468,Pasture
+1469,Sea Lake
+1470,Sea Lake
+1471,Sea Lake
+1472,Herbaceous Vegetation
+1473,Herbaceous Vegetation
+1474,Pasture
+1475,Permanent Crop
+1476,Industrial
+1477,Herbaceous Vegetation
+1478,Pasture
+1479,Pasture
+1480,Forest
+1481,Sea Lake
+1482,Annual Crop
+1483,Forest
+1484,Highway
+1485,Highway
+1486,Industrial
+1487,Sea Lake
+1488,Industrial
+1489,River
+1490,Highway
+1491,River
+1492,Industrial
+1493,Residential
+1494,Highway
+1495,Sea Lake
+1496,Annual Crop
+1497,Residential
+1498,Annual Crop
+1499,Forest
+1500,Herbaceous Vegetation
+1501,Pasture
+1502,Permanent Crop
+1503,Annual Crop
+1504,Sea Lake
+1505,Highway
+1506,Sea Lake
+1507,Permanent Crop
+1508,Pasture
+1509,Permanent Crop
+1510,Permanent Crop
+1511,Annual Crop
+1512,River
+1513,Highway
+1514,Herbaceous Vegetation
+1515,Highway
+1516,Herbaceous Vegetation
+1517,Forest
+1518,Permanent Crop
+1519,Forest
+1520,Sea Lake
+1521,Industrial
+1522,Residential
+1523,Herbaceous Vegetation
+1524,River
+1525,Highway
+1526,Pasture
+1527,Pasture
+1528,Pasture
+1529,Permanent Crop
+1530,Forest
+1531,Annual Crop
+1532,Forest
+1533,Sea Lake
+1534,Pasture
+1535,Sea Lake
+1536,Annual Crop
+1537,Residential
+1538,Sea Lake
+1539,Sea Lake
+1540,Permanent Crop
+1541,Industrial
+1542,Herbaceous Vegetation
+1543,Annual Crop
+1544,River
+1545,Sea Lake
+1546,Sea Lake
+1547,Annual Crop
+1548,Highway
+1549,Annual Crop
+1550,Sea Lake
+1551,Pasture
+1552,Residential
+1553,Herbaceous Vegetation
+1554,Highway
+1555,Pasture
+1556,Herbaceous Vegetation
+1557,Sea Lake
+1558,River
+1559,Highway
+1560,River
+1561,Annual Crop
+1562,Sea Lake
+1563,Industrial
+1564,River
+1565,Annual Crop
+1566,Forest
+1567,Pasture
+1568,Industrial
+1569,Residential
+1570,Sea Lake
+1571,Residential
+1572,Pasture
+1573,Forest
+1574,Highway
+1575,Sea Lake
+1576,Permanent Crop
+1577,Forest
+1578,Sea Lake
+1579,Annual Crop
+1580,Annual Crop
+1581,Herbaceous Vegetation
+1582,Pasture
+1583,Annual Crop
+1584,River
+1585,Residential
+1586,Industrial
+1587,Permanent Crop
+1588,Sea Lake
+1589,Highway
+1590,Highway
+1591,Pasture
+1592,Pasture
+1593,Herbaceous Vegetation
+1594,River
+1595,Highway
+1596,Annual Crop
+1597,Residential
+1598,Pasture
+1599,Residential
+1600,Forest
+1601,Forest
+1602,Annual Crop
+1603,Herbaceous Vegetation
+1604,Sea Lake
+1605,Sea Lake
+1606,Permanent Crop
+1607,Forest
+1608,Annual Crop
+1609,Permanent Crop
+1610,River
+1611,Permanent Crop
+1612,Industrial
+1613,Industrial
+1614,Industrial
+1615,Sea Lake
+1616,Highway
+1617,Annual Crop
+1618,Sea Lake
+1619,Annual Crop
+1620,Highway
+1621,Permanent Crop
+1622,Industrial
+1623,Sea Lake
+1624,Forest
+1625,Pasture
+1626,Sea Lake
+1627,Highway
+1628,Pasture
+1629,Sea Lake
+1630,Permanent Crop
+1631,Sea Lake
+1632,Permanent Crop
+1633,Herbaceous Vegetation
+1634,Annual Crop
+1635,Pasture
+1636,Industrial
+1637,Annual Crop
+1638,Sea Lake
+1639,Highway
+1640,River
+1641,Forest
+1642,Sea Lake
+1643,Pasture
+1644,Permanent Crop
+1645,Forest
+1646,Highway
+1647,Pasture
+1648,River
+1649,Highway
+1650,Pasture
+1651,Herbaceous Vegetation
+1652,Sea Lake
+1653,Residential
+1654,Pasture
+1655,River
+1656,Sea Lake
+1657,Permanent Crop
+1658,Annual Crop
+1659,Residential
+1660,Highway
+1661,Highway
+1662,Herbaceous Vegetation
+1663,Highway
+1664,Forest
+1665,Industrial
+1666,Industrial
+1667,Sea Lake
+1668,Pasture
+1669,Pasture
+1670,Herbaceous Vegetation
+1671,Residential
+1672,Highway
+1673,Pasture
+1674,Highway
+1675,Pasture
+1676,Pasture
+1677,Sea Lake
+1678,Annual Crop
+1679,River
+1680,Forest
+1681,Industrial
+1682,Sea Lake
+1683,Residential
+1684,Herbaceous Vegetation
+1685,Highway
+1686,Residential
+1687,Highway
+1688,Highway
+1689,Annual Crop
+1690,Industrial
+1691,Forest
+1692,Residential
+1693,Sea Lake
+1694,Sea Lake
+1695,Annual Crop
+1696,Sea Lake
+1697,Permanent Crop
+1698,Annual Crop
+1699,Herbaceous Vegetation
+1700,Industrial
+1701,Permanent Crop
+1702,Herbaceous Vegetation
+1703,Forest
+1704,Sea Lake
+1705,Sea Lake
+1706,Annual Crop
+1707,Industrial
+1708,Sea Lake
+1709,River
+1710,River
+1711,Annual Crop
+1712,Forest
+1713,Forest
+1714,Sea Lake
+1715,Permanent Crop
+1716,River
+1717,Annual Crop
+1718,Annual Crop
+1719,Herbaceous Vegetation
+1720,Pasture
+1721,Sea Lake
+1722,Annual Crop
+1723,Annual Crop
+1724,Residential
+1725,Pasture
+1726,Annual Crop
+1727,Sea Lake
+1728,Annual Crop
+1729,Annual Crop
+1730,Annual Crop
+1731,Herbaceous Vegetation
+1732,River
+1733,Herbaceous Vegetation
+1734,Herbaceous Vegetation
+1735,Annual Crop
+1736,Industrial
+1737,Herbaceous Vegetation
+1738,Permanent Crop
+1739,Annual Crop
+1740,Permanent Crop
+1741,Forest
+1742,River
+1743,Herbaceous Vegetation
+1744,Sea Lake
+1745,Pasture
+1746,Herbaceous Vegetation
+1747,Pasture
+1748,Pasture
+1749,Pasture
+1750,River
+1751,Permanent Crop
+1752,Residential
+1753,Residential
+1754,Herbaceous Vegetation
+1755,Annual Crop
+1756,Herbaceous Vegetation
+1757,Sea Lake
+1758,Forest
+1759,River
+1760,Pasture
+1761,Highway
+1762,Permanent Crop
+1763,Herbaceous Vegetation
+1764,River
+1765,Industrial
+1766,Herbaceous Vegetation
+1767,Herbaceous Vegetation
+1768,Annual Crop
+1769,Herbaceous Vegetation
+1770,Highway
+1771,Permanent Crop
+1772,Forest
+1773,Forest
+1774,Pasture
+1775,Sea Lake
+1776,Pasture
+1777,River
+1778,Forest
+1779,Industrial
+1780,Sea Lake
+1781,Permanent Crop
+1782,River
+1783,Industrial
+1784,Highway
+1785,Herbaceous Vegetation
+1786,Permanent Crop
+1787,Sea Lake
+1788,Industrial
+1789,Permanent Crop
+1790,Residential
+1791,Pasture
+1792,Pasture
+1793,Highway
+1794,Industrial
+1795,Residential
+1796,Forest
+1797,Permanent Crop
+1798,River
+1799,Forest
+1800,Permanent Crop
+1801,River
+1802,Residential
+1803,Annual Crop
+1804,Residential
+1805,Pasture
+1806,Forest
+1807,Pasture
+1808,Permanent Crop
+1809,Permanent Crop
+1810,Sea Lake
+1811,River
+1812,Sea Lake
+1813,Industrial
+1814,Permanent Crop
+1815,Residential
+1816,Permanent Crop
+1817,Annual Crop
+1818,Annual Crop
+1819,Industrial
+1820,Forest
+1821,Highway
+1822,Sea Lake
+1823,Sea Lake
+1824,Permanent Crop
+1825,Highway
+1826,Annual Crop
+1827,Highway
+1828,Annual Crop
+1829,Forest
+1830,Annual Crop
+1831,Residential
+1832,Herbaceous Vegetation
+1833,Highway
+1834,Industrial
+1835,Permanent Crop
+1836,Sea Lake
+1837,Industrial
+1838,Herbaceous Vegetation
+1839,Industrial
+1840,Annual Crop
+1841,Permanent Crop
+1842,Herbaceous Vegetation
+1843,Sea Lake
+1844,Pasture
+1845,Highway
+1846,Industrial
+1847,Herbaceous Vegetation
+1848,River
+1849,Forest
+1850,Pasture
+1851,Highway
+1852,Permanent Crop
+1853,Highway
+1854,Annual Crop
+1855,Sea Lake
+1856,Forest
+1857,Annual Crop
+1858,River
+1859,Residential
+1860,Highway
+1861,Sea Lake
+1862,Pasture
+1863,Forest
+1864,Industrial
+1865,Forest
+1866,Highway
+1867,River
+1868,River
+1869,Forest
+1870,Residential
+1871,Highway
+1872,Herbaceous Vegetation
+1873,Industrial
+1874,Highway
+1875,Annual Crop
+1876,River
+1877,Forest
+1878,Sea Lake
+1879,Forest
+1880,Forest
+1881,Pasture
+1882,Industrial
+1883,Annual Crop
+1884,Sea Lake
+1885,Herbaceous Vegetation
+1886,Pasture
+1887,Pasture
+1888,Herbaceous Vegetation
+1889,Forest
+1890,Herbaceous Vegetation
+1891,Residential
+1892,Herbaceous Vegetation
+1893,Sea Lake
+1894,Sea Lake
+1895,Pasture
+1896,Forest
+1897,Annual Crop
+1898,Forest
+1899,Pasture
+1900,Forest
+1901,Highway
+1902,Sea Lake
+1903,Sea Lake
+1904,Annual Crop
+1905,Herbaceous Vegetation
+1906,Sea Lake
+1907,Forest
+1908,Residential
+1909,Residential
+1910,Industrial
+1911,Pasture
+1912,Herbaceous Vegetation
+1913,Sea Lake
+1914,Industrial
+1915,Pasture
+1916,Sea Lake
+1917,Annual Crop
+1918,Highway
+1919,Permanent Crop
+1920,Industrial
+1921,Forest
+1922,Highway
+1923,Sea Lake
+1924,Industrial
+1925,Forest
+1926,Industrial
+1927,Permanent Crop
+1928,Herbaceous Vegetation
+1929,Sea Lake
+1930,Herbaceous Vegetation
+1931,Forest
+1932,Sea Lake
+1933,Sea Lake
+1934,River
+1935,Permanent Crop
+1936,Annual Crop
+1937,Forest
+1938,Forest
+1939,Herbaceous Vegetation
+1940,Residential
+1941,Sea Lake
+1942,Residential
+1943,Sea Lake
+1944,Pasture
+1945,Annual Crop
+1946,River
+1947,Residential
+1948,Pasture
+1949,Pasture
+1950,Highway
+1951,Residential
+1952,Permanent Crop
+1953,Forest
+1954,Permanent Crop
+1955,Herbaceous Vegetation
+1956,Sea Lake
+1957,Pasture
+1958,Pasture
+1959,Herbaceous Vegetation
+1960,Sea Lake
+1961,Annual Crop
+1962,Industrial
+1963,Permanent Crop
+1964,Highway
+1965,Annual Crop
+1966,Industrial
+1967,Permanent Crop
+1968,Sea Lake
+1969,Pasture
+1970,Annual Crop
+1971,River
+1972,Highway
+1973,River
+1974,Industrial
+1975,River
+1976,Permanent Crop
+1977,Permanent Crop
+1978,Permanent Crop
+1979,Herbaceous Vegetation
+1980,Annual Crop
+1981,Forest
+1982,Forest
+1983,Sea Lake
+1984,Forest
+1985,Sea Lake
+1986,Residential
+1987,River
+1988,Forest
+1989,Annual Crop
+1990,Annual Crop
+1991,Residential
+1992,Sea Lake
+1993,Annual Crop
+1994,Highway
+1995,Industrial
+1996,Industrial
+1997,Industrial
+1998,Annual Crop
+1999,Herbaceous Vegetation
+2000,River
+2001,Highway
+2002,Residential
+2003,Annual Crop
+2004,Industrial
+2005,Herbaceous Vegetation
+2006,Pasture
+2007,Highway
+2008,Annual Crop
+2009,Sea Lake
+2010,Forest
+2011,Forest
+2012,Permanent Crop
+2013,Residential
+2014,Sea Lake
+2015,Forest
+2016,Forest
+2017,Pasture
+2018,Highway
+2019,Herbaceous Vegetation
+2020,Pasture
+2021,Sea Lake
+2022,River
+2023,Sea Lake
+2024,Herbaceous Vegetation
+2025,River
+2026,Sea Lake
+2027,Sea Lake
+2028,Residential
+2029,Industrial
+2030,Permanent Crop
+2031,Highway
+2032,Sea Lake
+2033,Sea Lake
+2034,Herbaceous Vegetation
+2035,Annual Crop
+2036,Herbaceous Vegetation
+2037,Sea Lake
+2038,Sea Lake
+2039,Herbaceous Vegetation
+2040,Permanent Crop
+2041,River
+2042,Permanent Crop
+2043,Highway
+2044,Forest
+2045,Forest
+2046,Sea Lake
+2047,Pasture
+2048,Herbaceous Vegetation
+2049,Herbaceous Vegetation
+2050,Highway
+2051,Highway
+2052,Herbaceous Vegetation
+2053,Industrial
+2054,Sea Lake
+2055,Residential
+2056,Residential
+2057,River
+2058,Industrial
+2059,Annual Crop
+2060,Pasture
+2061,Sea Lake
+2062,Herbaceous Vegetation
+2063,Residential
+2064,Sea Lake
+2065,Forest
+2066,Forest
+2067,Sea Lake
+2068,River
+2069,Highway
+2070,Pasture
+2071,Residential
+2072,Pasture
+2073,Annual Crop
+2074,Highway
+2075,Residential
+2076,Permanent Crop
+2077,Herbaceous Vegetation
+2078,Sea Lake
+2079,Sea Lake
+2080,Permanent Crop
+2081,Industrial
+2082,Forest
+2083,River
+2084,Highway
+2085,Highway
+2086,Annual Crop
+2087,Residential
+2088,Forest
+2089,Herbaceous Vegetation
+2090,River
+2091,Sea Lake
+2092,Annual Crop
+2093,Permanent Crop
+2094,River
+2095,Residential
+2096,Herbaceous Vegetation
+2097,Residential
+2098,River
+2099,Annual Crop
+2100,Forest
+2101,Annual Crop
+2102,Pasture
+2103,Permanent Crop
+2104,Sea Lake
+2105,Permanent Crop
+2106,Annual Crop
+2107,Sea Lake
+2108,Herbaceous Vegetation
+2109,Sea Lake
+2110,Sea Lake
+2111,Herbaceous Vegetation
+2112,Sea Lake
+2113,Herbaceous Vegetation
+2114,River
+2115,Industrial
+2116,Annual Crop
+2117,Highway
+2118,Industrial
+2119,Forest
+2120,Permanent Crop
+2121,Forest
+2122,Pasture
+2123,Annual Crop
+2124,Annual Crop
+2125,River
+2126,Sea Lake
+2127,Herbaceous Vegetation
+2128,Forest
+2129,Industrial
+2130,Forest
+2131,Highway
+2132,Sea Lake
+2133,Sea Lake
+2134,Industrial
+2135,Annual Crop
+2136,Pasture
+2137,Pasture
+2138,Industrial
+2139,River
+2140,Forest
+2141,Annual Crop
+2142,Permanent Crop
+2143,Forest
+2144,Residential
+2145,Sea Lake
+2146,Permanent Crop
+2147,Pasture
+2148,Industrial
+2149,Pasture
+2150,Herbaceous Vegetation
+2151,Sea Lake
+2152,Annual Crop
+2153,River
+2154,Industrial
+2155,Herbaceous Vegetation
+2156,Highway
+2157,Forest
+2158,Pasture
+2159,Sea Lake
+2160,Forest
+2161,Forest
+2162,Permanent Crop
+2163,Annual Crop
+2164,Sea Lake
+2165,Annual Crop
+2166,Highway
+2167,Forest
+2168,Herbaceous Vegetation
+2169,Annual Crop
+2170,Herbaceous Vegetation
+2171,Forest
+2172,Industrial
+2173,Industrial
+2174,Sea Lake
+2175,Sea Lake
+2176,Forest
+2177,Herbaceous Vegetation
+2178,Sea Lake
+2179,River
+2180,River
+2181,Residential
+2182,Sea Lake
+2183,Herbaceous Vegetation
+2184,Sea Lake
+2185,Herbaceous Vegetation
+2186,Permanent Crop
+2187,Sea Lake
+2188,Permanent Crop
+2189,Sea Lake
+2190,Pasture
+2191,Pasture
+2192,River
+2193,Annual Crop
+2194,Industrial
+2195,Permanent Crop
+2196,Sea Lake
+2197,Pasture
+2198,Permanent Crop
+2199,Herbaceous Vegetation
+2200,Residential
+2201,Annual Crop
+2202,Highway
+2203,Forest
+2204,Sea Lake
+2205,Herbaceous Vegetation
+2206,Highway
+2207,Residential
+2208,Highway
+2209,Sea Lake
+2210,Forest
+2211,Forest
+2212,Annual Crop
+2213,Sea Lake
+2214,Forest
+2215,Highway
+2216,Pasture
+2217,Forest
+2218,Permanent Crop
+2219,Forest
+2220,Pasture
+2221,Sea Lake
+2222,Industrial
+2223,Highway
+2224,Pasture
+2225,Pasture
+2226,Herbaceous Vegetation
+2227,Residential
+2228,Permanent Crop
+2229,Residential
+2230,River
+2231,Sea Lake
+2232,River
+2233,Annual Crop
+2234,Annual Crop
+2235,Highway
+2236,Highway
+2237,Permanent Crop
+2238,Forest
+2239,Sea Lake
+2240,Pasture
+2241,Industrial
+2242,Residential
+2243,Forest
+2244,Forest
+2245,River
+2246,Sea Lake
+2247,River
+2248,Sea Lake
+2249,Sea Lake
+2250,River
+2251,Annual Crop
+2252,Forest
+2253,River
+2254,Sea Lake
+2255,Pasture
+2256,River
+2257,Forest
+2258,Permanent Crop
+2259,Permanent Crop
+2260,Sea Lake
+2261,Sea Lake
+2262,Annual Crop
+2263,Pasture
+2264,Sea Lake
+2265,Highway
+2266,Sea Lake
+2267,Pasture
+2268,Sea Lake
+2269,Sea Lake
+2270,Sea Lake
+2271,Sea Lake
+2272,Annual Crop
+2273,Highway
+2274,Permanent Crop
+2275,Herbaceous Vegetation
+2276,Annual Crop
+2277,Pasture
+2278,Herbaceous Vegetation
+2279,Permanent Crop
+2280,Forest
+2281,River
+2282,Industrial
+2283,Herbaceous Vegetation
+2284,Forest
+2285,Highway
+2286,Industrial
+2287,Herbaceous Vegetation
+2288,Pasture
+2289,Annual Crop
+2290,Sea Lake
+2291,Industrial
+2292,Permanent Crop
+2293,Herbaceous Vegetation
+2294,Annual Crop
+2295,Herbaceous Vegetation
+2296,Highway
+2297,Residential
+2298,Herbaceous Vegetation
+2299,Permanent Crop
+2300,Sea Lake
+2301,Pasture
+2302,Forest
+2303,Pasture
+2304,Herbaceous Vegetation
+2305,Sea Lake
+2306,Annual Crop
+2307,Herbaceous Vegetation
+2308,Residential
+2309,Pasture
+2310,Herbaceous Vegetation
+2311,Forest
+2312,Sea Lake
+2313,Industrial
+2314,Herbaceous Vegetation
+2315,Pasture
+2316,Forest
+2317,Permanent Crop
+2318,Forest
+2319,Residential
+2320,Industrial
+2321,Annual Crop
+2322,Sea Lake
+2323,River
+2324,River
+2325,Herbaceous Vegetation
+2326,Sea Lake
+2327,Permanent Crop
+2328,Residential
+2329,Herbaceous Vegetation
+2330,Sea Lake
+2331,Permanent Crop
+2332,Herbaceous Vegetation
+2333,Pasture
+2334,Permanent Crop
+2335,Pasture
+2336,Industrial
+2337,Residential
+2338,Residential
+2339,Herbaceous Vegetation
+2340,Industrial
+2341,Industrial
+2342,Highway
+2343,Forest
+2344,Sea Lake
+2345,Residential
+2346,Industrial
+2347,Sea Lake
+2348,River
+2349,River
+2350,Sea Lake
+2351,Industrial
+2352,Pasture
+2353,Highway
+2354,Permanent Crop
+2355,Forest
+2356,Residential
+2357,Sea Lake
+2358,Forest
+2359,Forest
+2360,Forest
+2361,Highway
+2362,Pasture
+2363,Pasture
+2364,Sea Lake
+2365,Herbaceous Vegetation
+2366,Permanent Crop
+2367,Forest
+2368,River
+2369,Annual Crop
+2370,Pasture
+2371,Pasture
+2372,Pasture
+2373,Forest
+2374,Sea Lake
+2375,Sea Lake
+2376,River
+2377,Forest
+2378,Forest
+2379,River
+2380,Highway
+2381,Permanent Crop
+2382,Forest
+2383,Forest
+2384,Herbaceous Vegetation
+2385,Forest
+2386,Pasture
+2387,Herbaceous Vegetation
+2388,Sea Lake
+2389,Highway
+2390,Industrial
+2391,Herbaceous Vegetation
+2392,River
+2393,Forest
+2394,River
+2395,Highway
+2396,Residential
+2397,Sea Lake
+2398,Herbaceous Vegetation
+2399,Sea Lake
+2400,Pasture
+2401,Sea Lake
+2402,Sea Lake
+2403,Sea Lake
+2404,Pasture
+2405,Herbaceous Vegetation
+2406,Residential
+2407,Sea Lake
+2408,Herbaceous Vegetation
+2409,Pasture
+2410,Highway
+2411,Permanent Crop
+2412,River
+2413,River
+2414,Sea Lake
+2415,Industrial
+2416,Forest
+2417,Industrial
+2418,Sea Lake
+2419,Herbaceous Vegetation
+2420,Industrial
+2421,Permanent Crop
+2422,Highway
+2423,Forest
+2424,Highway
+2425,Industrial
+2426,Forest
+2427,Sea Lake
+2428,Industrial
+2429,Forest
+2430,Pasture
+2431,Forest
+2432,Highway
+2433,Pasture
+2434,Highway
+2435,Sea Lake
+2436,Permanent Crop
+2437,Permanent Crop
+2438,Herbaceous Vegetation
+2439,Herbaceous Vegetation
+2440,Sea Lake
+2441,Herbaceous Vegetation
+2442,River
+2443,Annual Crop
+2444,Sea Lake
+2445,Residential
+2446,Industrial
+2447,Sea Lake
+2448,Forest
+2449,Forest
+2450,Pasture
+2451,Annual Crop
+2452,Sea Lake
+2453,Forest
+2454,Pasture
+2455,Highway
+2456,Sea Lake
+2457,Sea Lake
+2458,Annual Crop
+2459,Sea Lake
+2460,Sea Lake
+2461,Sea Lake
+2462,Permanent Crop
+2463,Pasture
+2464,Residential
+2465,Industrial
+2466,Sea Lake
+2467,Herbaceous Vegetation
+2468,Forest
+2469,Annual Crop
+2470,Residential
+2471,Highway
+2472,Forest
+2473,River
+2474,Sea Lake
+2475,Annual Crop
+2476,Forest
+2477,Annual Crop
+2478,Permanent Crop
+2479,Sea Lake
+2480,Sea Lake
+2481,Herbaceous Vegetation
+2482,Sea Lake
+2483,Permanent Crop
+2484,Industrial
+2485,Highway
+2486,Annual Crop
+2487,Herbaceous Vegetation
+2488,Sea Lake
+2489,Sea Lake
+2490,Permanent Crop
+2491,Forest
+2492,River
+2493,River
+2494,Forest
+2495,Sea Lake
+2496,Permanent Crop
+2497,Industrial
+2498,Sea Lake
+2499,Forest
+2500,Residential
+2501,Sea Lake
+2502,Herbaceous Vegetation
+2503,Highway
+2504,Herbaceous Vegetation
+2505,Pasture
+2506,Highway
+2507,Forest
+2508,Pasture
+2509,Sea Lake
+2510,Pasture
+2511,Sea Lake
+2512,Sea Lake
+2513,Sea Lake
+2514,Pasture
+2515,Pasture
+2516,Pasture
+2517,Herbaceous Vegetation
+2518,Forest
+2519,Annual Crop
+2520,River
+2521,River
+2522,Pasture
+2523,Annual Crop
+2524,Sea Lake
+2525,Sea Lake
+2526,Herbaceous Vegetation
+2527,River
+2528,Annual Crop
+2529,Sea Lake
+2530,Sea Lake
+2531,Permanent Crop
+2532,Highway
+2533,Sea Lake
+2534,Sea Lake
+2535,Sea Lake
+2536,River
+2537,Sea Lake
+2538,Residential
+2539,Highway
+2540,Permanent Crop
+2541,Residential
+2542,Industrial
+2543,Pasture
+2544,Residential
+2545,River
+2546,Industrial
+2547,Highway
+2548,Sea Lake
+2549,Forest
+2550,River
+2551,Permanent Crop
+2552,Sea Lake
+2553,Forest
+2554,Highway
+2555,Industrial
+2556,Highway
+2557,Permanent Crop
+2558,Sea Lake
+2559,Permanent Crop
+2560,Herbaceous Vegetation
+2561,Sea Lake
+2562,Industrial
+2563,Herbaceous Vegetation
+2564,Sea Lake
+2565,River
+2566,Sea Lake
+2567,Herbaceous Vegetation
+2568,Sea Lake
+2569,River
+2570,Herbaceous Vegetation
+2571,Herbaceous Vegetation
+2572,Industrial
+2573,Annual Crop
+2574,Industrial
+2575,Forest
+2576,Herbaceous Vegetation
+2577,Highway
+2578,Industrial
+2579,Annual Crop
+2580,Annual Crop
+2581,Forest
+2582,Highway
+2583,Sea Lake
+2584,River
+2585,Residential
+2586,Residential
+2587,Annual Crop
+2588,River
+2589,Sea Lake
+2590,Industrial
+2591,Highway
+2592,Sea Lake
+2593,Annual Crop
+2594,Highway
+2595,Sea Lake
+2596,Forest
+2597,Permanent Crop
+2598,River
+2599,Sea Lake
+2600,River
+2601,Annual Crop
+2602,Sea Lake
+2603,River
+2604,Permanent Crop
+2605,Sea Lake
+2606,Highway
+2607,Pasture
+2608,Annual Crop
+2609,Pasture
+2610,Industrial
+2611,Annual Crop
+2612,Forest
+2613,Annual Crop
+2614,Sea Lake
+2615,Pasture
+2616,River
+2617,Herbaceous Vegetation
+2618,Forest
+2619,Pasture
+2620,Forest
+2621,Permanent Crop
+2622,Permanent Crop
+2623,Industrial
+2624,Herbaceous Vegetation
+2625,Highway
+2626,Permanent Crop
+2627,Annual Crop
+2628,Sea Lake
+2629,Forest
+2630,Highway
+2631,Forest
+2632,Forest
+2633,Pasture
+2634,Residential
+2635,Residential
+2636,River
+2637,Annual Crop
+2638,Annual Crop
+2639,Sea Lake
+2640,Pasture
+2641,Herbaceous Vegetation
+2642,Sea Lake
+2643,Industrial
+2644,Sea Lake
+2645,Sea Lake
+2646,Pasture
+2647,Herbaceous Vegetation
+2648,Forest
+2649,Industrial
+2650,Residential
+2651,Sea Lake
+2652,Sea Lake
+2653,River
+2654,Forest
+2655,Herbaceous Vegetation
+2656,Highway
+2657,Herbaceous Vegetation
+2658,Herbaceous Vegetation
+2659,Highway
+2660,Residential
+2661,Annual Crop
+2662,Herbaceous Vegetation
+2663,Residential
+2664,Highway
+2665,Sea Lake
+2666,Forest
+2667,Annual Crop
+2668,Forest
+2669,Sea Lake
+2670,Industrial
+2671,Permanent Crop
+2672,Pasture
+2673,Industrial
+2674,Forest
+2675,Annual Crop
+2676,Annual Crop
+2677,Herbaceous Vegetation
+2678,Industrial
+2679,Pasture
+2680,River
+2681,Sea Lake
+2682,Forest
+2683,Permanent Crop
+2684,Sea Lake
+2685,Sea Lake
+2686,Residential
+2687,Residential
+2688,Industrial
+2689,Permanent Crop
+2690,Annual Crop
+2691,Pasture
+2692,Pasture
+2693,Forest
+2694,River
+2695,Annual Crop
+2696,Pasture
+2697,Highway
+2698,Highway
+2699,Forest
+2700,River
+2701,Permanent Crop
+2702,Highway
+2703,Sea Lake
+2704,Forest
+2705,Residential
+2706,Herbaceous Vegetation
+2707,Forest
+2708,Industrial
+2709,Sea Lake
+2710,Highway
+2711,Forest
+2712,Annual Crop
+2713,Herbaceous Vegetation
+2714,Highway
+2715,Permanent Crop
+2716,Herbaceous Vegetation
+2717,Sea Lake
+2718,Permanent Crop
+2719,Residential
+2720,Permanent Crop
+2721,Forest
+2722,Forest
+2723,Residential
+2724,Industrial
+2725,Annual Crop
+2726,Sea Lake
+2727,Forest
+2728,Forest
+2729,River
+2730,Herbaceous Vegetation
+2731,Highway
+2732,Industrial
+2733,River
+2734,Herbaceous Vegetation
+2735,Herbaceous Vegetation
+2736,Sea Lake
+2737,Pasture
+2738,Herbaceous Vegetation
+2739,Sea Lake
+2740,Permanent Crop
+2741,River
+2742,Highway
+2743,River
+2744,River
+2745,Residential
+2746,Industrial
+2747,Industrial
+2748,Highway
+2749,Pasture
+2750,Pasture
+2751,Permanent Crop
+2752,Pasture
+2753,Annual Crop
+2754,Forest
+2755,Herbaceous Vegetation
+2756,Sea Lake
+2757,River
+2758,Industrial
+2759,Forest
+2760,Pasture
+2761,Sea Lake
+2762,Sea Lake
+2763,River
+2764,Annual Crop
+2765,Permanent Crop
+2766,Industrial
+2767,Sea Lake
+2768,Sea Lake
+2769,Sea Lake
+2770,Sea Lake
+2771,Sea Lake
+2772,Highway
+2773,Residential
+2774,Highway
+2775,Herbaceous Vegetation
+2776,Residential
+2777,Herbaceous Vegetation
+2778,Sea Lake
+2779,Forest
+2780,Annual Crop
+2781,Forest
+2782,Residential
+2783,Highway
+2784,Residential
+2785,Sea Lake
+2786,Annual Crop
+2787,Herbaceous Vegetation
+2788,Permanent Crop
+2789,Annual Crop
+2790,River
+2791,Industrial
+2792,Industrial
+2793,Highway
+2794,River
+2795,Pasture
+2796,Permanent Crop
+2797,Highway
+2798,Sea Lake
+2799,River
+2800,Highway
+2801,Forest
+2802,River
+2803,Sea Lake
+2804,Sea Lake
+2805,Sea Lake
+2806,Herbaceous Vegetation
+2807,Residential
+2808,Permanent Crop
+2809,River
+2810,Pasture
+2811,Permanent Crop
+2812,Forest
+2813,Highway
+2814,Pasture
+2815,Forest
+2816,Permanent Crop
+2817,Herbaceous Vegetation
+2818,Industrial
+2819,Highway
+2820,Highway
+2821,River
+2822,Pasture
+2823,River
+2824,Residential
+2825,River
+2826,Industrial
+2827,Industrial
+2828,Sea Lake
+2829,Annual Crop
+2830,River
+2831,Highway
+2832,Pasture
+2833,Sea Lake
+2834,Highway
+2835,River
+2836,Forest
+2837,Residential
+2838,Herbaceous Vegetation
+2839,Sea Lake
+2840,Herbaceous Vegetation
+2841,Herbaceous Vegetation
+2842,River
+2843,River
+2844,Forest
+2845,Forest
+2846,Sea Lake
+2847,Highway
+2848,Sea Lake
+2849,River
+2850,Sea Lake
+2851,Sea Lake
+2852,Sea Lake
+2853,Industrial
+2854,Annual Crop
+2855,Herbaceous Vegetation
+2856,Highway
+2857,Forest
+2858,Herbaceous Vegetation
+2859,Highway
+2860,Highway
+2861,Pasture
+2862,Forest
+2863,Highway
+2864,Forest
+2865,Permanent Crop
+2866,Pasture
+2867,Sea Lake
+2868,Forest
+2869,Herbaceous Vegetation
+2870,Annual Crop
+2871,Residential
+2872,Industrial
+2873,Residential
+2874,Industrial
+2875,Annual Crop
+2876,Sea Lake
+2877,Industrial
+2878,Sea Lake
+2879,Annual Crop
+2880,Forest
+2881,Annual Crop
+2882,Forest
+2883,Permanent Crop
+2884,Industrial
+2885,Herbaceous Vegetation
+2886,Herbaceous Vegetation
+2887,Pasture
+2888,Sea Lake
+2889,Annual Crop
+2890,Forest
+2891,Forest
+2892,Highway
+2893,Pasture
+2894,Permanent Crop
+2895,Sea Lake
+2896,Pasture
+2897,Industrial
+2898,Permanent Crop
+2899,Herbaceous Vegetation
+2900,River
+2901,Sea Lake
+2902,Permanent Crop
+2903,River
+2904,Permanent Crop
+2905,Forest
+2906,Residential
+2907,Highway
+2908,Forest
+2909,Sea Lake
+2910,Forest
+2911,Sea Lake
+2912,Forest
+2913,Herbaceous Vegetation
+2914,Pasture
+2915,Annual Crop
+2916,Herbaceous Vegetation
+2917,Highway
+2918,Pasture
+2919,River
+2920,Annual Crop
+2921,Permanent Crop
+2922,Permanent Crop
+2923,Sea Lake
+2924,Forest
+2925,Residential
+2926,River
+2927,Forest
+2928,Industrial
+2929,Highway
+2930,Sea Lake
+2931,Sea Lake
+2932,Sea Lake
+2933,Permanent Crop
+2934,Sea Lake
+2935,Annual Crop
+2936,Highway
+2937,Highway
+2938,Industrial
+2939,Annual Crop
+2940,Sea Lake
+2941,Residential
+2942,Sea Lake
+2943,Annual Crop
+2944,Forest
+2945,Highway
+2946,Sea Lake
+2947,Herbaceous Vegetation
+2948,Pasture
+2949,Sea Lake
+2950,Permanent Crop
+2951,Herbaceous Vegetation
+2952,River
+2953,Residential
+2954,Forest
+2955,Industrial
+2956,Forest
+2957,Annual Crop
+2958,Herbaceous Vegetation
+2959,Sea Lake
+2960,Pasture
+2961,Forest
+2962,Industrial
+2963,Herbaceous Vegetation
+2964,Permanent Crop
+2965,Industrial
+2966,Forest
+2967,Sea Lake
+2968,Sea Lake
+2969,Herbaceous Vegetation
+2970,Annual Crop
+2971,Sea Lake
+2972,Sea Lake
+2973,Permanent Crop
+2974,Pasture
+2975,Annual Crop
+2976,River
+2977,Herbaceous Vegetation
+2978,Pasture
+2979,Residential
+2980,Herbaceous Vegetation
+2981,Industrial
+2982,Sea Lake
+2983,Annual Crop
+2984,Sea Lake
+2985,River
+2986,Pasture
+2987,Sea Lake
+2988,Herbaceous Vegetation
+2989,Industrial
+2990,Forest
+2991,Permanent Crop
+2992,Residential
+2993,Permanent Crop
+2994,Residential
+2995,Permanent Crop
+2996,Sea Lake
+2997,Residential
+2998,River
+2999,Sea Lake
+3000,Pasture
+3001,Annual Crop
+3002,Annual Crop
+3003,Forest
+3004,Industrial
+3005,Pasture
+3006,River
+3007,Industrial
+3008,Pasture
+3009,Annual Crop
+3010,Herbaceous Vegetation
+3011,Annual Crop
+3012,Forest
+3013,Pasture
+3014,Sea Lake
+3015,Annual Crop
+3016,Residential
+3017,Herbaceous Vegetation
+3018,Permanent Crop
+3019,River
+3020,Residential
+3021,Annual Crop
+3022,Herbaceous Vegetation
+3023,Sea Lake
+3024,Sea Lake
+3025,Sea Lake
+3026,Sea Lake
+3027,Sea Lake
+3028,Sea Lake
+3029,Residential
+3030,Sea Lake
+3031,River
+3032,Annual Crop
+3033,Highway
+3034,Herbaceous Vegetation
+3035,Forest
+3036,Annual Crop
+3037,Annual Crop
+3038,Highway
+3039,Residential
+3040,River
+3041,Annual Crop
+3042,Sea Lake
+3043,Industrial
+3044,Sea Lake
+3045,Annual Crop
+3046,Annual Crop
+3047,River
+3048,Residential
+3049,Pasture
+3050,Herbaceous Vegetation
+3051,Annual Crop
+3052,Highway
+3053,Forest
+3054,Sea Lake
+3055,Permanent Crop
+3056,Forest
+3057,Forest
+3058,Annual Crop
+3059,Residential
+3060,Permanent Crop
+3061,Sea Lake
+3062,Sea Lake
+3063,Annual Crop
+3064,Permanent Crop
+3065,Pasture
+3066,Permanent Crop
+3067,Residential
+3068,River
+3069,Residential
+3070,Forest
+3071,Sea Lake
+3072,Herbaceous Vegetation
+3073,Highway
+3074,Residential
+3075,Herbaceous Vegetation
+3076,Sea Lake
+3077,Forest
+3078,Herbaceous Vegetation
+3079,Forest
+3080,Permanent Crop
+3081,Annual Crop
+3082,Sea Lake
+3083,Sea Lake
+3084,Annual Crop
+3085,Highway
+3086,Permanent Crop
+3087,Industrial
+3088,Highway
+3089,Industrial
+3090,Pasture
+3091,Annual Crop
+3092,Sea Lake
+3093,Sea Lake
+3094,Permanent Crop
+3095,Forest
+3096,Highway
+3097,Residential
+3098,Forest
+3099,Sea Lake
+3100,Sea Lake
+3101,Forest
+3102,Residential
+3103,Sea Lake
+3104,Sea Lake
+3105,Pasture
+3106,Sea Lake
+3107,Highway
+3108,Forest
+3109,Industrial
+3110,Sea Lake
+3111,Pasture
+3112,River
+3113,Annual Crop
+3114,Highway
+3115,Sea Lake
+3116,Forest
+3117,Sea Lake
+3118,Highway
+3119,Highway
+3120,Forest
+3121,Sea Lake
+3122,Permanent Crop
+3123,Industrial
+3124,Sea Lake
+3125,Forest
+3126,Annual Crop
+3127,Permanent Crop
+3128,Pasture
+3129,Sea Lake
+3130,Herbaceous Vegetation
+3131,Annual Crop
+3132,Highway
+3133,Highway
+3134,River
+3135,Pasture
+3136,Herbaceous Vegetation
+3137,Pasture
+3138,Annual Crop
+3139,Herbaceous Vegetation
+3140,Annual Crop
+3141,Forest
+3142,Sea Lake
+3143,Residential
+3144,Forest
+3145,Permanent Crop
+3146,Herbaceous Vegetation
+3147,Annual Crop
+3148,Sea Lake
+3149,Sea Lake
+3150,Sea Lake
+3151,Annual Crop
+3152,Sea Lake
+3153,Industrial
+3154,Residential
+3155,Annual Crop
+3156,Pasture
+3157,Herbaceous Vegetation
+3158,Highway
+3159,Highway
+3160,Industrial
+3161,Industrial
+3162,Pasture
+3163,Sea Lake
+3164,Forest
+3165,Highway
+3166,Herbaceous Vegetation
+3167,Pasture
+3168,River
+3169,Permanent Crop
+3170,Permanent Crop
+3171,Annual Crop
+3172,Herbaceous Vegetation
+3173,River
+3174,Pasture
+3175,River
+3176,Herbaceous Vegetation
+3177,Herbaceous Vegetation
+3178,Highway
+3179,Pasture
+3180,River
+3181,River
+3182,Industrial
+3183,Forest
+3184,Herbaceous Vegetation
+3185,Pasture
+3186,Highway
+3187,Permanent Crop
+3188,Sea Lake
+3189,Herbaceous Vegetation
+3190,Sea Lake
+3191,Forest
+3192,Forest
+3193,Forest
+3194,Industrial
+3195,Residential
+3196,Sea Lake
+3197,Forest
+3198,Pasture
+3199,Annual Crop
+3200,Forest
+3201,River
+3202,Forest
+3203,Sea Lake
+3204,Highway
+3205,River
+3206,River
+3207,Highway
+3208,Pasture
+3209,Pasture
+3210,Forest
+3211,Highway
+3212,Residential
+3213,Sea Lake
+3214,Sea Lake
+3215,Industrial
+3216,River
+3217,Industrial
+3218,Sea Lake
+3219,River
+3220,Pasture
+3221,Sea Lake
+3222,Sea Lake
+3223,Highway
+3224,Permanent Crop
+3225,Highway
+3226,River
+3227,Herbaceous Vegetation
+3228,Forest
+3229,Industrial
+3230,River
+3231,Residential
+3232,Pasture
+3233,Permanent Crop
+3234,Annual Crop
+3235,River
+3236,Permanent Crop
+3237,Sea Lake
+3238,Annual Crop
+3239,Sea Lake
+3240,Pasture
+3241,Residential
+3242,Permanent Crop
+3243,Highway
+3244,Sea Lake
+3245,Sea Lake
+3246,Highway
+3247,Herbaceous Vegetation
+3248,Industrial
+3249,Residential
+3250,Forest
+3251,Industrial
+3252,Permanent Crop
+3253,Herbaceous Vegetation
+3254,Forest
+3255,Sea Lake
+3256,Forest
+3257,Industrial
+3258,Sea Lake
+3259,Pasture
+3260,Highway
+3261,Annual Crop
+3262,Sea Lake
+3263,Sea Lake
+3264,Highway
+3265,Pasture
+3266,Permanent Crop
+3267,Forest
+3268,Permanent Crop
+3269,River
+3270,Permanent Crop
+3271,Forest
+3272,Highway
+3273,Pasture
+3274,Sea Lake
+3275,Residential
+3276,Sea Lake
+3277,Highway
+3278,Highway
+3279,Forest
+3280,Pasture
+3281,Forest
+3282,Forest
+3283,Permanent Crop
+3284,Residential
+3285,Residential
+3286,Sea Lake
+3287,Residential
+3288,Pasture
+3289,Pasture
+3290,Permanent Crop
+3291,Pasture
+3292,Sea Lake
+3293,Sea Lake
+3294,Permanent Crop
+3295,Pasture
+3296,Annual Crop
+3297,Forest
+3298,River
+3299,Permanent Crop
+3300,Herbaceous Vegetation
+3301,Herbaceous Vegetation
+3302,Forest
+3303,Industrial
+3304,River
+3305,Residential
+3306,River
+3307,Forest
+3308,Annual Crop
+3309,Herbaceous Vegetation
+3310,Sea Lake
+3311,Annual Crop
+3312,Sea Lake
+3313,Pasture
+3314,Pasture
+3315,Sea Lake
+3316,Industrial
+3317,Industrial
+3318,Sea Lake
+3319,Sea Lake
+3320,Herbaceous Vegetation
+3321,Permanent Crop
+3322,Sea Lake
+3323,Pasture
+3324,Pasture
+3325,Forest
+3326,Residential
+3327,Permanent Crop
+3328,Permanent Crop
+3329,Sea Lake
+3330,Forest
+3331,Pasture
+3332,River
+3333,Herbaceous Vegetation
+3334,Sea Lake
+3335,River
+3336,Forest
+3337,Sea Lake
+3338,Sea Lake
+3339,Forest
+3340,Industrial
+3341,River
+3342,Sea Lake
+3343,Pasture
+3344,Pasture
+3345,Annual Crop
+3346,Sea Lake
+3347,Forest
+3348,Pasture
+3349,Herbaceous Vegetation
+3350,River
+3351,Permanent Crop
+3352,Highway
+3353,River
+3354,Sea Lake
+3355,Highway
+3356,Residential
+3357,Forest
+3358,Forest
+3359,Herbaceous Vegetation
+3360,Forest
+3361,Annual Crop
+3362,Forest
+3363,Herbaceous Vegetation
+3364,Highway
+3365,Annual Crop
+3366,River
+3367,Herbaceous Vegetation
+3368,River
+3369,Sea Lake
+3370,Annual Crop
+3371,Forest
+3372,Herbaceous Vegetation
+3373,Sea Lake
+3374,Herbaceous Vegetation
+3375,Industrial
+3376,Residential
+3377,Sea Lake
+3378,Pasture
+3379,Forest
+3380,Annual Crop
+3381,Sea Lake
+3382,River
+3383,Residential
+3384,Sea Lake
+3385,Forest
+3386,Annual Crop
+3387,River
+3388,Annual Crop
+3389,Residential
+3390,Pasture
+3391,Industrial
+3392,Industrial
+3393,Pasture
+3394,Permanent Crop
+3395,Pasture
+3396,Herbaceous Vegetation
+3397,Annual Crop
+3398,Sea Lake
+3399,Herbaceous Vegetation
+3400,Permanent Crop
+3401,River
+3402,Herbaceous Vegetation
+3403,Highway
+3404,Herbaceous Vegetation
+3405,Sea Lake
+3406,Permanent Crop
+3407,Permanent Crop
+3408,Residential
+3409,Sea Lake
+3410,Herbaceous Vegetation
+3411,Herbaceous Vegetation
+3412,Highway
+3413,Pasture
+3414,River
+3415,River
+3416,Sea Lake
+3417,Pasture
+3418,Sea Lake
+3419,Highway
+3420,Residential
+3421,Pasture
+3422,Annual Crop
+3423,Industrial
+3424,Sea Lake
+3425,Highway
+3426,River
+3427,Sea Lake
+3428,River
+3429,Forest
+3430,Annual Crop
+3431,River
+3432,River
+3433,River
+3434,Residential
+3435,Sea Lake
+3436,Herbaceous Vegetation
+3437,Forest
+3438,Annual Crop
+3439,Forest
+3440,Highway
+3441,Sea Lake
+3442,Highway
+3443,Permanent Crop
+3444,Pasture
+3445,Sea Lake
+3446,Highway
+3447,Herbaceous Vegetation
+3448,Highway
+3449,River
+3450,River
+3451,Pasture
+3452,Sea Lake
+3453,Herbaceous Vegetation
+3454,Sea Lake
+3455,Pasture
+3456,Herbaceous Vegetation
+3457,Annual Crop
+3458,Annual Crop
+3459,Herbaceous Vegetation
+3460,Pasture
+3461,Industrial
+3462,Annual Crop
+3463,Forest
+3464,Herbaceous Vegetation
+3465,Pasture
+3466,River
+3467,Annual Crop
+3468,Forest
+3469,Sea Lake
+3470,River
+3471,Highway
+3472,Residential
+3473,Annual Crop
+3474,Sea Lake
+3475,Highway
+3476,Permanent Crop
+3477,Herbaceous Vegetation
+3478,Pasture
+3479,Highway
+3480,Permanent Crop
+3481,Annual Crop
+3482,Highway
+3483,Highway
+3484,River
+3485,Herbaceous Vegetation
+3486,Annual Crop
+3487,Herbaceous Vegetation
+3488,Forest
+3489,Industrial
+3490,Annual Crop
+3491,Residential
+3492,River
+3493,Sea Lake
+3494,Forest
+3495,Annual Crop
+3496,Highway
+3497,Sea Lake
+3498,Herbaceous Vegetation
+3499,River
+3500,Residential
+3501,Highway
+3502,Herbaceous Vegetation
+3503,Forest
+3504,Sea Lake
+3505,Forest
+3506,Permanent Crop
+3507,Industrial
+3508,Residential
+3509,Herbaceous Vegetation
+3510,Sea Lake
+3511,Sea Lake
+3512,Forest
+3513,Annual Crop
+3514,Industrial
+3515,Sea Lake
+3516,Industrial
+3517,Highway
+3518,Sea Lake
+3519,Pasture
+3520,River
+3521,Sea Lake
+3522,Pasture
+3523,Sea Lake
+3524,Highway
+3525,Sea Lake
+3526,Sea Lake
+3527,Forest
+3528,Pasture
+3529,Herbaceous Vegetation
+3530,Permanent Crop
+3531,Industrial
+3532,Permanent Crop
+3533,Permanent Crop
+3534,Residential
+3535,Pasture
+3536,Sea Lake
+3537,Herbaceous Vegetation
+3538,Sea Lake
+3539,Highway
+3540,Herbaceous Vegetation
+3541,Sea Lake
+3542,Highway
+3543,Pasture
+3544,Pasture
+3545,Highway
+3546,Sea Lake
+3547,Herbaceous Vegetation
+3548,Pasture
+3549,Highway
+3550,Sea Lake
+3551,Herbaceous Vegetation
+3552,River
+3553,Sea Lake
+3554,Permanent Crop
+3555,Herbaceous Vegetation
+3556,Sea Lake
+3557,Annual Crop
+3558,Annual Crop
+3559,River
+3560,Forest
+3561,Industrial
+3562,Herbaceous Vegetation
+3563,Highway
+3564,Sea Lake
+3565,Residential
+3566,Highway
+3567,Sea Lake
+3568,Sea Lake
+3569,Pasture
+3570,Sea Lake
+3571,River
+3572,Forest
+3573,Sea Lake
+3574,Pasture
+3575,Industrial
+3576,Industrial
+3577,Industrial
+3578,Pasture
+3579,Sea Lake
+3580,River
+3581,Forest
+3582,Industrial
+3583,Permanent Crop
+3584,Industrial
+3585,Sea Lake
+3586,Forest
+3587,Sea Lake
+3588,Pasture
+3589,Sea Lake
+3590,Pasture
+3591,Residential
+3592,Herbaceous Vegetation
+3593,Pasture
+3594,Sea Lake
+3595,Sea Lake
+3596,Sea Lake
+3597,Pasture
+3598,Pasture
+3599,Herbaceous Vegetation
+3600,Pasture
+3601,Annual Crop
+3602,Sea Lake
+3603,Highway
+3604,Sea Lake
+3605,Herbaceous Vegetation
+3606,Annual Crop
+3607,Permanent Crop
+3608,Sea Lake
+3609,Forest
+3610,Sea Lake
+3611,Sea Lake
+3612,Sea Lake
+3613,Permanent Crop
+3614,Herbaceous Vegetation
+3615,River
+3616,Sea Lake
+3617,Forest
+3618,Pasture
+3619,River
+3620,Sea Lake
+3621,Pasture
+3622,Forest
+3623,Herbaceous Vegetation
+3624,Herbaceous Vegetation
+3625,Highway
+3626,Sea Lake
+3627,Permanent Crop
+3628,Forest
+3629,Residential
+3630,Sea Lake
+3631,Annual Crop
+3632,Pasture
+3633,Permanent Crop
+3634,Highway
+3635,Highway
+3636,Forest
+3637,Sea Lake
+3638,River
+3639,Sea Lake
+3640,Industrial
+3641,Pasture
+3642,Permanent Crop
+3643,Herbaceous Vegetation
+3644,Forest
+3645,Herbaceous Vegetation
+3646,Industrial
+3647,Residential
+3648,Permanent Crop
+3649,Permanent Crop
+3650,Permanent Crop
+3651,Herbaceous Vegetation
+3652,Highway
+3653,Industrial
+3654,Forest
+3655,River
+3656,Sea Lake
+3657,Annual Crop
+3658,Permanent Crop
+3659,Industrial
+3660,Annual Crop
+3661,Herbaceous Vegetation
+3662,Pasture
+3663,River
+3664,Sea Lake
+3665,Sea Lake
+3666,River
+3667,Herbaceous Vegetation
+3668,Herbaceous Vegetation
+3669,Sea Lake
+3670,Highway
+3671,Annual Crop
+3672,Forest
+3673,Permanent Crop
+3674,Sea Lake
+3675,Sea Lake
+3676,Residential
+3677,Sea Lake
+3678,River
+3679,Annual Crop
+3680,Herbaceous Vegetation
+3681,Highway
+3682,Annual Crop
+3683,Sea Lake
+3684,Forest
+3685,Highway
+3686,River
+3687,Sea Lake
+3688,Annual Crop
+3689,Residential
+3690,Sea Lake
+3691,Sea Lake
+3692,Forest
+3693,Sea Lake
+3694,Industrial
+3695,Annual Crop
+3696,Forest
+3697,Pasture
+3698,Residential
+3699,Permanent Crop
+3700,Pasture
+3701,Residential
+3702,Sea Lake
+3703,Sea Lake
+3704,Sea Lake
+3705,River
+3706,Herbaceous Vegetation
+3707,Pasture
+3708,Highway
+3709,Industrial
+3710,Permanent Crop
+3711,Pasture
+3712,River
+3713,Herbaceous Vegetation
+3714,Sea Lake
+3715,River
+3716,Sea Lake
+3717,Industrial
+3718,Sea Lake
+3719,Sea Lake
+3720,Annual Crop
+3721,Residential
+3722,Sea Lake
+3723,Residential
+3724,Sea Lake
+3725,Industrial
+3726,Sea Lake
+3727,Residential
+3728,Annual Crop
+3729,Herbaceous Vegetation
+3730,Industrial
+3731,Annual Crop
+3732,Forest
+3733,Forest
+3734,Sea Lake
+3735,Highway
+3736,Industrial
+3737,Annual Crop
+3738,Herbaceous Vegetation
+3739,Forest
+3740,Annual Crop
+3741,Herbaceous Vegetation
+3742,Residential
+3743,Highway
+3744,Industrial
+3745,Highway
+3746,Industrial
+3747,Annual Crop
+3748,Forest
+3749,Residential
+3750,Industrial
+3751,Sea Lake
+3752,Annual Crop
+3753,Permanent Crop
+3754,Forest
+3755,Residential
+3756,Forest
+3757,Sea Lake
+3758,Annual Crop
+3759,Forest
+3760,River
+3761,Annual Crop
+3762,Annual Crop
+3763,Sea Lake
+3764,Highway
+3765,Residential
+3766,Permanent Crop
+3767,Highway
+3768,Forest
+3769,Highway
+3770,Industrial
+3771,Sea Lake
+3772,Residential
+3773,Permanent Crop
+3774,Permanent Crop
+3775,Herbaceous Vegetation
+3776,Industrial
+3777,Highway
+3778,River
+3779,Forest
+3780,River
+3781,Sea Lake
+3782,Forest
+3783,Highway
+3784,Industrial
+3785,Sea Lake
+3786,Sea Lake
+3787,Highway
+3788,Highway
+3789,Annual Crop
+3790,Pasture
+3791,Permanent Crop
+3792,Industrial
+3793,Forest
+3794,Highway
+3795,Sea Lake
+3796,Pasture
+3797,Forest
+3798,Forest
+3799,Highway
+3800,Annual Crop
+3801,Permanent Crop
+3802,Annual Crop
+3803,Sea Lake
+3804,Industrial
+3805,Forest
+3806,Forest
+3807,Forest
+3808,Pasture
+3809,Sea Lake
+3810,River
+3811,Industrial
+3812,Sea Lake
+3813,Highway
+3814,Industrial
+3815,Highway
+3816,Forest
+3817,Forest
+3818,Annual Crop
+3819,Annual Crop
+3820,Annual Crop
+3821,Forest
+3822,Permanent Crop
+3823,Industrial
+3824,Sea Lake
+3825,Highway
+3826,River
+3827,Highway
+3828,Annual Crop
+3829,Sea Lake
+3830,Industrial
+3831,Pasture
+3832,Forest
+3833,Industrial
+3834,Forest
+3835,Sea Lake
+3836,Sea Lake
+3837,Forest
+3838,Permanent Crop
+3839,Annual Crop
+3840,Forest
+3841,Industrial
+3842,Pasture
+3843,Residential
+3844,Forest
+3845,River
+3846,Sea Lake
+3847,Residential
+3848,Industrial
+3849,Sea Lake
+3850,Residential
+3851,Forest
+3852,Sea Lake
+3853,Sea Lake
+3854,Sea Lake
+3855,Permanent Crop
+3856,Residential
+3857,Sea Lake
+3858,Sea Lake
+3859,Permanent Crop
+3860,Sea Lake
+3861,Pasture
+3862,Sea Lake
+3863,Highway
+3864,Highway
+3865,River
+3866,River
+3867,Industrial
+3868,Residential
+3869,Highway
+3870,Herbaceous Vegetation
+3871,Highway
+3872,Annual Crop
+3873,Residential
+3874,Sea Lake
+3875,Residential
+3876,Highway
+3877,Permanent Crop
+3878,Forest
+3879,Pasture
+3880,River
+3881,Sea Lake
+3882,Industrial
+3883,Pasture
+3884,Residential
+3885,Industrial
+3886,Annual Crop
+3887,Sea Lake
+3888,Industrial
+3889,Herbaceous Vegetation
+3890,Pasture
+3891,Forest
+3892,Permanent Crop
+3893,River
+3894,Herbaceous Vegetation
+3895,Herbaceous Vegetation
+3896,Sea Lake
+3897,Pasture
+3898,Industrial
+3899,Annual Crop
+3900,Sea Lake
+3901,Permanent Crop
+3902,Sea Lake
+3903,Permanent Crop
+3904,Residential
+3905,River
+3906,Highway
+3907,Industrial
+3908,Sea Lake
+3909,Industrial
+3910,Sea Lake
+3911,Residential
+3912,Pasture
+3913,Annual Crop
+3914,Sea Lake
+3915,River
+3916,Forest
+3917,Forest
+3918,Residential
+3919,Sea Lake
+3920,River
+3921,River
+3922,Pasture
+3923,Forest
+3924,Sea Lake
+3925,Annual Crop
+3926,Sea Lake
+3927,Forest
+3928,Forest
+3929,Pasture
+3930,Highway
+3931,Annual Crop
+3932,Forest
+3933,Highway
+3934,Sea Lake
+3935,Sea Lake
+3936,Sea Lake
+3937,Industrial
+3938,Industrial
+3939,Sea Lake
+3940,Highway
+3941,Sea Lake
+3942,Pasture
+3943,Industrial
+3944,Highway
+3945,Herbaceous Vegetation
+3946,Industrial
+3947,Herbaceous Vegetation
+3948,Sea Lake
+3949,Pasture
+3950,Annual Crop
+3951,Herbaceous Vegetation
+3952,Annual Crop
+3953,Forest
+3954,Herbaceous Vegetation
+3955,Sea Lake
+3956,Annual Crop
+3957,Sea Lake
+3958,Highway
+3959,Annual Crop
+3960,Sea Lake
+3961,Residential
+3962,Herbaceous Vegetation
+3963,Sea Lake
+3964,Herbaceous Vegetation
+3965,Sea Lake
+3966,Residential
+3967,River
+3968,Forest
+3969,Sea Lake
+3970,Residential
+3971,Forest
+3972,Pasture
+3973,Sea Lake
+3974,Highway
+3975,Residential
+3976,Sea Lake
+3977,Permanent Crop
+3978,Herbaceous Vegetation
+3979,Permanent Crop
+3980,Sea Lake
+3981,Herbaceous Vegetation
+3982,Forest
+3983,River
+3984,Sea Lake
+3985,River
+3986,Permanent Crop
+3987,Annual Crop
+3988,Forest
+3989,River
+3990,Annual Crop
+3991,Permanent Crop
+3992,River
+3993,Pasture
+3994,Forest
+3995,Pasture
+3996,Highway
+3997,Herbaceous Vegetation
+3998,Industrial
+3999,Forest
+4000,Forest
+4001,Industrial
+4002,Industrial
+4003,Pasture
+4004,Industrial
+4005,Highway
+4006,Sea Lake
+4007,Forest
+4008,Industrial
+4009,Sea Lake
+4010,Herbaceous Vegetation
+4011,Forest
+4012,Pasture
+4013,Herbaceous Vegetation
+4014,Forest
+4015,Industrial
+4016,River
+4017,Sea Lake
+4018,Annual Crop
+4019,Herbaceous Vegetation
+4020,Sea Lake
+4021,Forest
+4022,Residential
+4023,Highway
+4024,River
+4025,River
+4026,Sea Lake
+4027,Residential
+4028,Permanent Crop
+4029,Residential
+4030,River
+4031,Pasture
+4032,Sea Lake
+4033,Annual Crop
+4034,Sea Lake
+4035,Pasture
+4036,Herbaceous Vegetation
+4037,Highway
+4038,Pasture
+4039,Sea Lake
+4040,Forest
+4041,Sea Lake
+4042,Highway
+4043,Sea Lake
+4044,Sea Lake
+4045,Residential
+4046,Annual Crop
+4047,Sea Lake
+4048,Annual Crop
+4049,Herbaceous Vegetation
+4050,Herbaceous Vegetation
+4051,Herbaceous Vegetation
+4052,Highway
+4053,River
+4054,Highway
+4055,Sea Lake
+4056,Annual Crop
+4057,Pasture
+4058,Annual Crop
+4059,Sea Lake
+4060,Residential
+4061,Forest
+4062,Sea Lake
+4063,Highway
+4064,Sea Lake
+4065,Sea Lake
+4066,Pasture
+4067,Sea Lake
+4068,Annual Crop
+4069,Annual Crop
+4070,Permanent Crop
+4071,Herbaceous Vegetation
+4072,Industrial
+4073,Permanent Crop
+4074,Residential
+4075,Sea Lake
+4076,Annual Crop
+4077,Sea Lake
+4078,Permanent Crop
+4079,Permanent Crop
+4080,Annual Crop
+4081,Permanent Crop
+4082,Permanent Crop
+4083,Sea Lake
+4084,Industrial
+4085,Sea Lake
+4086,Industrial
+4087,Residential
+4088,Sea Lake
+4089,Sea Lake
+4090,Permanent Crop
+4091,Forest
+4092,Forest
+4093,Sea Lake
+4094,Annual Crop
+4095,Pasture
+4096,Residential
+4097,Forest
+4098,River
+4099,Forest
+4100,Highway
+4101,Sea Lake
+4102,Pasture
+4103,Pasture
+4104,Sea Lake
+4105,Sea Lake
+4106,Pasture
+4107,Sea Lake
+4108,Industrial
+4109,Sea Lake
+4110,Sea Lake
+4111,Forest
+4112,Highway
+4113,Pasture
+4114,Sea Lake
+4115,Annual Crop
+4116,Annual Crop
+4117,Annual Crop
+4118,River
+4119,Forest
+4120,Herbaceous Vegetation
+4121,Herbaceous Vegetation
+4122,Permanent Crop
+4123,Pasture
+4124,Residential
+4125,Forest
+4126,Residential
+4127,Sea Lake
+4128,River
+4129,Forest
+4130,Sea Lake
+4131,Residential
+4132,Annual Crop
+4133,Permanent Crop
+4134,Residential
+4135,Sea Lake
+4136,Industrial
+4137,Highway
+4138,Forest
+4139,Highway
+4140,Permanent Crop
+4141,Forest
+4142,Annual Crop
+4143,Forest
+4144,Annual Crop
+4145,Annual Crop
+4146,Permanent Crop
+4147,Permanent Crop
+4148,Herbaceous Vegetation
+4149,Residential
+4150,Annual Crop
+4151,Highway
+4152,Pasture
+4153,Herbaceous Vegetation
+4154,Highway
+4155,Pasture
+4156,Sea Lake
+4157,Highway
+4158,River
+4159,Permanent Crop
+4160,Permanent Crop
+4161,Highway
+4162,Residential
+4163,Forest
+4164,Highway
+4165,Highway
+4166,Herbaceous Vegetation
+4167,Annual Crop
+4168,Sea Lake
+4169,Industrial
+4170,Forest
+4171,Annual Crop
+4172,River
+4173,Permanent Crop
+4174,River
+4175,Pasture
+4176,Residential
+4177,Annual Crop
+4178,Permanent Crop
+4179,Highway
+4180,Pasture
+4181,Herbaceous Vegetation
+4182,Forest
+4183,Permanent Crop
+4184,Sea Lake
+4185,Herbaceous Vegetation
+4186,Permanent Crop
+4187,Pasture
+4188,Annual Crop
+4189,Sea Lake
+4190,Pasture
+4191,River
+4192,Industrial
+4193,Sea Lake
+4194,Annual Crop
+4195,Forest
+4196,Pasture
+4197,Sea Lake
+4198,Sea Lake
+4199,Highway
+4200,Residential
+4201,Forest
+4202,Permanent Crop
+4203,Pasture
+4204,Highway
+4205,Pasture
+4206,Forest
+4207,Forest
+4208,Highway
+4209,Pasture
+4210,Industrial
+4211,Highway
+4212,Pasture
+4213,Residential
+4214,Forest
+4215,Highway
+4216,Industrial
+4217,Industrial
+4218,Forest
+4219,Pasture
+4220,Highway
+4221,Herbaceous Vegetation
+4222,Forest
+4223,Residential
+4224,Sea Lake
+4225,Sea Lake
+4226,Herbaceous Vegetation
+4227,Herbaceous Vegetation
+4228,River
+4229,River
+4230,Industrial
+4231,Forest
