@@ -2,8 +2,6 @@
 
 As part of our course project (Spring 2023), we embarked on a journey to tackle the challenges of land cover classification using advanced machine learning techniques.
 
----
-
 ## Project Overview
 
 This project focuses on the application of various deep learning models to the task of land cover classification. Our journey involved experimenting with different neural network architectures and domain adaptation techniques to improve the accuracy of land cover classification.
