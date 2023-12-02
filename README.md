@@ -20,9 +20,4 @@ This project focuses on the application of various deep learning models to the t
 
 Note: The data was tested on OOD data, thus resulting in lower accuracy scores as typically observed
 
-## Future Outlook
-
-- Inclusion of NDVI features during training.
-- Further exploration in domain adaptation.
-- Implementation of hyperparameter tuning and cross-validation to reduce overfitting.
-- Consideration of ensemble learning by combining various models.
+For more details, please view our [final presentatation](https://github.com/kaaydin/land-cover-classification/blob/main/presentation/presentation-final.pdf) of this project. 
